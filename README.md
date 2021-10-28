@@ -1,4 +1,4 @@
-#Tracking-centroids-using-OpenCV
+# Tracking-centroids-using-OpenCV
 
 Includes a video processing task which was achieved via the following sub-tasks:
 
